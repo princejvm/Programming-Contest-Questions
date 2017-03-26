@@ -1,3 +1,8 @@
+/*life never ends so believe in god and just code*/
+
+//Author-->Prince Kumar 
+//Handle on codechef-->princejvm
+//Handle on codeforces-->prince593
 #include<bits/stdc++.h>
 using namespace std;
 vector <int> a[200000];
