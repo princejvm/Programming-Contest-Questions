@@ -1,5 +1,5 @@
 /*life never ends so believe in god and just code*/
-
+//Que link-> http://codeforces.com/problemset/problem/771/A
 //Author-->Prince Kumar 
 //Handle on codechef-->princejvm
 //Handle on codeforces-->prince593
