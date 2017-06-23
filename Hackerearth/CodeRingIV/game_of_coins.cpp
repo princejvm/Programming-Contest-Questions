@@ -2,6 +2,8 @@
 //Que link-> https://www.hackerearth.com/problem/algorithm/game-of-coins-264/
 //Author-->Prince Kumar 
 //Handle-->princejvm
+//BEST SUBMISSION ON HACKEREARTH IN C++14
+
 #include<bits/stdc++.h>
 using namespace std;
 int LP[10000007];
