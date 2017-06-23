@@ -2,6 +2,7 @@
 //Que link-> https://www.hackerearth.com/problem/algorithm/sum-of-digits-8/description/
 //Author-->Prince Kumar 
 //Handle-->princejvm
+//BEST SUBMISSION ON HACKEREARTH IN C++14
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long int
