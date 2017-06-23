@@ -1,4 +1,7 @@
-# intro
-This is the solution to the  problem bear and friendship condition of codeforces 
-link of the problem-->http://codeforces.com/problemset/problem/771/A
-Author->PRINCE KUMAR
+# Programming contest questions
+This repository contains the solutions to some of the questions asked in contests
+on several coding platforms like 
+codechef, codeforces, hackerearth, hackerrank
+This is my personal repository of solutions that I wrote through the time.
+Handle-->princejvm
+Author-->Prince Kumar
